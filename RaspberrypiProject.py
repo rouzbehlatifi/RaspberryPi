@@ -72,9 +72,3 @@ while True:
     print(x.strftime("%Y-%m-%d %H:%M:%S"))
     PrintData(list_HospitalBed)  #print data
 
-    def sum(a,b):
-         return a + b
-    
-
-
-    print(sum(3,2))
